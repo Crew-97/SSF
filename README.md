@@ -1,5 +1,11 @@
 # SSF 15기: AI로 배우는 쿠버네티스
 
+이 저장소는 [sysnet4admin/SSF](https://github.com/sysnet4admin/SSF)의 **학습용 포크**입니다. 아래에는 원본의 교육 과정과 실행 안내를 유지합니다. 회차 목록은 교육 범위를 나타내며 개인의 실습 완료 기록은 아닙니다.
+
+직접 수행한 프로젝트는 [포트폴리오](https://dorian-insect-dbd.notion.site/3d7f9416d0c981e09550c74daf722192)와 [GitHub 프로필](https://github.com/Crew-97)에서 확인할 수 있습니다.
+
+## 교육 과정 소개
+
 쿠버네티스를 처음 접하는 분을 위한 7회차 실습 과정입니다. 회차마다 새 예제를 만들지 않고 처음 배포한 앱을 계속 다루면서, AI 튜터(Claude Code)와 함께 배포의 전체 흐름을 익힙니다.
 
 ## 학습 방식
